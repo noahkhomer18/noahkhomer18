@@ -1,6 +1,6 @@
 # About me — Noah Khomer
 
-I bridge Computer Science and Project Management to build clear, reliable, human-centered software. I love taking complex ideas and turning them into simple, teachable systems—whether that’s a frontend experience, a workflow, or a study guide. I grew up in NYC, live in Dallas, and I care most about helping others win.
+I build clear, reliable, human‑centered software at the intersection of Computer Science and Project Management. I take complex ideas and turn them into simple, teachable systems—on the screen and in real life. NYC raised me; Dallas is home. My focus: helping others win.
 
 ---
 
@@ -21,35 +21,31 @@ I bridge Computer Science and Project Management to build clear, reliable, human
 
 ---
 
-## Links
+## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-noahkhomer18-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahkhomer18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noahkhomer18)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learningwithnoah25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?logo=vercel&logoColor=white)](https://www.noah-khomer.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-noahkhomer18-181717?logo=github&logoColor=white)](https://github.com/noahkhomer18)
-[![YouTube](https://img.shields.io/badge/YouTube-@learningwithnoah25-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@learningwithnoah25)
 
 Note: Email intentionally excluded for security.
 
 ---
 
-## Tech stack (concise)
+## 💻 Tech Stack
 
-- Frontend: HTML5, CSS3, JavaScript/TypeScript, React, Next.js, Tailwind CSS
-- Backend/Tools: Node.js, Python, Java, Git/GitHub, REST
-- Platforms: WordPress, Shopify, Wix
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=000)
+![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 Languages: English · Urdu · Hindi · Punjabi
-
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> 
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> 
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"> 
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"> 
-  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white">
-</p>
 
 ---
 
@@ -60,5 +56,17 @@ Languages: English · Urdu · Hindi · Punjabi
 - Ship small, iterate fast, keep quality high
 
 ---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=noahkhomer18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=noahkhomer18&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noahkhomer18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=noahkhomer18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 If this resonates, be sure to follow me here on GitHub and connect via the links above to catch new builds, tips, and projects.
