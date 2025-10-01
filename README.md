@@ -20,7 +20,7 @@ I’m open to part‑time internships where I can help your company succeed with
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learningwithnoah25)
 [![Portfolio](https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?logo=vercel&logoColor=white)](https://www.noah-khomer.com/)
 
-Note: Email intentionally excluded for security.
+Note: Email intentionally excluded for security. You can reach me out on Linkedin instead
 
 ---
 
