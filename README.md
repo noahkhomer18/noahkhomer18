@@ -16,9 +16,9 @@ I’m open to part‑time internships where I can help your company succeed with
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noahkhomer18)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@learningwithnoah25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?logo=vercel&logoColor=white)](https://www.noah-khomer.com/)
+<a href="https://linkedin.com/in/noahkhomer18"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
+<a href="https://youtube.com/@learningwithnoah25"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40" /></a>
+<a href="https://www.noah-khomer.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
 
 Note: Email intentionally excluded for security. You can reach me out on Linkedin instead
 
@@ -37,6 +37,7 @@ Note: Email intentionally excluded for security. You can reach me out on Linkedi
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +82,7 @@ Note: Email intentionally excluded for security. You can reach me out on Linkedi
 
 ![](https://nirzak-streak-stats.vercel.app/?user=noahkhomer18&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noahkhomer18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noahkhomer18&theme=dark&hide_border=false&langs_count=30)
 
 ---
 
