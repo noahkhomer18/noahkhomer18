@@ -1,4 +1,4 @@
-# About me — Noah Khomer
+# Hi, I am Noah
 
 I build clear, reliable, human‑centered software at the intersection of Computer Science and Project Management. I take complex ideas and turn them into simple, teachable systems—on the screen and in real life. NYC raised me; Dallas is home. My focus: helping others win.
 
