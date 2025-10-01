@@ -42,4 +42,4 @@ Languages: English · Urdu · Hindi · Punjabi
 
 ---
 
-If you’ve got a project or idea (Dallas or remote), I’m always open to connect via the links above.
+If this resonates, be sure to follow me here on GitHub and connect via the links above to catch new builds, tips, and projects.
