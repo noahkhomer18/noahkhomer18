@@ -13,6 +13,14 @@ I bridge Computer Science and Project Management to build clear, reliable, human
 
 ---
 
+## Who I help
+
+- Enterprises & franchises (e.g., Dunkin’): performant, accessible, CMS-driven frontends
+- Students & early‑career: ATS‑ready resumes, standout portfolios, clarity coaching
+- Creators & small business: fast sites, booking flows, and SEO essentials
+
+---
+
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-noahkhomer18-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahkhomer18)
@@ -31,6 +39,17 @@ Note: Email intentionally excluded for security.
 - Platforms: WordPress, Shopify, Wix
 
 Languages: English · Urdu · Hindi · Punjabi
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> 
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> 
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white"> 
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> 
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"> 
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white">
+</p>
 
 ---
 
