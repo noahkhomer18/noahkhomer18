@@ -1,23 +1,6 @@
 # Hi, I am Noah
 
-I build clear, reliable, human‑centered software at the intersection of Computer Science and Project Management. I take complex ideas and turn them into simple, teachable systems—on the screen and in real life. NYC raised me; Dallas is home. My focus: helping others win.
-
----
-
-## What I do (for you)
-
-- Design and build fast, accessible frontends with modern tooling
-- Turn goals into roadmaps: plan, prioritize, and deliver with Agile
-- Make content and concepts simple, visual, and easy to learn
-- Uplevel portfolios and profiles so your work stands out
-
----
-
-## Who I help
-
-- Enterprises & franchises (e.g., Dunkin’): performant, accessible, CMS-driven frontends
-- Students & early‑career: ATS‑ready resumes, standout portfolios, clarity coaching
-- Creators & small business: fast sites, booking flows, and SEO essentials
+I’ve been coding since I was 12. Along the way I’ve built countless projects while working full‑time for teams like Dunkin’, Sparkle Car Wash, Mile High Cuts, Blue Collar Marketing Group, and The Musicians Club. Many of those projects are becoming public here—this GitHub will be a living testament to my work. I love learning, and that drive led me to pursue a double major with multiple minors across Computer Science, Software Engineering, Business Administration, Information Systems, and Project Management. I pass on what I learn through my YouTube channel to help others across subjects, and I also support recent graduates and senior professionals with resume improvements that help them stand out. I do a lot, learn a lot, and then teach it so we all grow. Welcome to my GitHub—I hope you find something here that helps you. I’m fully authorized to work in the U.S., open to internships and roles. I grew up in NYC and now live in Dallas.
 
 ---
 
