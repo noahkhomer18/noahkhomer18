@@ -1,6 +1,6 @@
 # Hi, I am Noah
 
-I’ve been coding since I was 12. Along the way I’ve built countless projects while working full‑time for teams like Dunkin’, Sparkle Car Wash, Mile High Cuts, Blue Collar Marketing Group, and The Musicians Club. 
+I’ve been coding since I was 12. Along the way I’ve built countless projects while working across industries such as food service, automotive, grooming, marketing, and music.
 
 Many of those projects are becoming public here; this GitHub will be a living testament to my work and it will remain as one of my firm achievements. 
 
