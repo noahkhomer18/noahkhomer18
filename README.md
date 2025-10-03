@@ -1,5 +1,7 @@
 # Hi, I am Noah
 
+Welcome to my GitHub; I hope you find something here that helps you.
+
 I’ve been coding since I was 12. Along the way I’ve built countless projects while working across industries such as food service, automotive, grooming, marketing, and music.
 
 Many of those projects are becoming public here; this GitHub will be a living testament to my work and it will remain as one of my firm achievements. 
@@ -9,8 +11,6 @@ I love learning, and that drive led me to pursue a double major with multiple mi
 I pass on what I learn through my YouTube channel to help others across subjects, and I also support recent graduates and senior professionals with resume improvements that help them stand out. 
 
 I do a lot, learn a lot, and then teach it so we all grow. 
-
-Welcome to my GitHub; I hope you find something here that helps you. 
 
 I’m open to part‑time internships where I can help your company succeed with my expertise; while I enjoy what I do now, if you have a role that challenges me more, feel free to reach out. I grew up in NYC and now live in Dallas.
 
