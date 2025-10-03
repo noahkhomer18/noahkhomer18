@@ -19,7 +19,6 @@ I’m open to part‑time internships where I can help your company succeed with
 ## 🌐 Socials
 
 <a href="https://linkedin.com/in/noahkhomer18"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
-<a href="https://youtube.com/@learningwithnoah25"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="40" /></a>
 <a href="https://www.noah-khomer.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
 
 Note: Email intentionally excluded for security. You can reach me out on Linkedin instead
