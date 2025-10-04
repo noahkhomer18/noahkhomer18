@@ -1,5 +1,5 @@
 # Hi, I am Noah ✨
-<img align="right" height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
 
 <pre style="background-color:#0d1117;color:#e6edf3;padding:16px;border-radius:10px;font-family:'JetBrains Mono', monospace;font-size:14px;line-height:1.5;overflow:auto;">
 <span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">aboutMe</span> = {
