@@ -3,7 +3,7 @@
 Welcome to my GitHub; I hope you find something here that helps you.
 
 I’ve been coding since I was 12. Along the way I’ve built countless projects while working across industries such as food service, automotive, grooming, marketing, and music.
-
+<meta name="google-site-verification" content="fP-JCnJ69ql0rpW9wHuG3lhBng-gMtB_9YXodfJ903U" />
 Many of those projects are becoming public here; this GitHub will be a living testament to my work and it will remain as one of my firm achievements. 
 
 I love learning, and that drive led me to pursue a double major with multiple minors across Computer Science, Software Engineering, Business Administration, Information Systems, and Project Management. 
