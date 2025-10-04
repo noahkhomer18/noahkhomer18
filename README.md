@@ -1,19 +1,20 @@
 # Hi, I am Noah ✨
 <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
 
-```js
-const aboutMe = {
-  name: "Noah Khomer",
-  location: "Dallas, TX (originally NYC)",
-  startedCodingAt: 12,
-  passion: "Building projects that connect creativity with technology",
-  education: {
-    majors: ["Computer Science", "Business Administration"],
-    minors: ["Software Engineering", "Information Systems", "Project Management"]
+<pre style="background-color:#0d1117;color:#e6edf3;padding:16px;border-radius:10px;font-family:'JetBrains Mono', monospace;font-size:14px;line-height:1.5;overflow:auto;">
+<span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">aboutMe</span> = {
+  <span style="color:#79c0ff;">name</span>: <span style="color:#a5d6ff;">"Noah Khomer"</span>,
+  <span style="color:#79c0ff;">location</span>: <span style="color:#a5d6ff;">"Dallas, TX (originally NYC)"</span>,
+  <span style="color:#79c0ff;">startedCodingAt</span>: <span style="color:#ff7b72;">12</span>,
+  <span style="color:#79c0ff;">passion</span>: <span style="color:#a5d6ff;">"Building projects that connect creativity with technology"</span>,
+  <span style="color:#79c0ff;">education</span>: {
+    <span style="color:#79c0ff;">majors</span>: [<span style="color:#a5d6ff;">"Computer Science"</span>, <span style="color:#a5d6ff;">"Business Administration"</span>],
+    <span style="color:#79c0ff;">minors</span>: [<span style="color:#a5d6ff;">"Software Engineering"</span>, <span style="color:#a5d6ff;">"Information Systems"</span>, <span style="color:#a5d6ff;">"Project Management"</span>]
   },
-  motto: "I do a lot, learn a lot, and then teach it so we all grow."
+  <span style="color:#79c0ff;">motto</span>: <span style="color:#a5d6ff;">"I do a lot, learn a lot, and then teach it so we all grow."</span>
 };
-``` 
+</pre>
+
 
 <div align="center">
   <a href="https://linkedin.com/in/noahkhomer18" target="_blank">
