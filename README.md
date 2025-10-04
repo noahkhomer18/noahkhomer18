@@ -1,5 +1,5 @@
 # Hi, I am Noah ✨
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
+<img align="right" height="210" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
 
 <pre style="background-color:#0d1117;color:#e6edf3;padding:16px;border-radius:10px;font-family:'JetBrains Mono', monospace;font-size:14px;line-height:1.5;overflow:auto;">
 <span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">aboutMe</span> = {
@@ -11,25 +11,7 @@
     <span style="color:#79c0ff;">majors</span>: [<span style="color:#a5d6ff;">"Computer Science"</span>, <span style="color:#a5d6ff;">"Business Administration"</span>],
     <span style="color:#79c0ff;">minors</span>: [<span style="color:#a5d6ff;">"Software Engineering"</span>, <span style="color:#a5d6ff;">"Information Systems"</span>, <span style="color:#a5d6ff;">"Project Management"</span>]
   },
-  <span style="color:#79c0ff;">motto</span>: <span style="color:#a5d6ff;">"I do a lot, learn a lot, and then teach it so we all grow."</span>
-};
 </pre>
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/noahkhomer18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.noah-khomer.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
-  </a>
-</div>
-
-<p align="center">
-  <sub>Email intentionally excluded for security. You can reach me through LinkedIn.</sub>
-</p>
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
@@ -83,5 +65,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR5OGdoNmk3Z2JhM3pxbDdrdmN0ajByN2dhNnY1bTJjZ3AwNTRsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TdoiN7rZuGDJPs2rAS/giphy.gif" height="180" alt="gif1" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR5OGdoNmk3Z2JhM3pxbDdrdmN0ajByN2dhNnY1bTJjZ3AwNTRsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J6JazAkCVLId91L4yM/giphy.gif" height="180" alt="gif2" />
+ 
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3dxeG1zeTJjeng3cmx1dTd5YzN1ZWEzMzl5M3ZoMXowajM2YW5paiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/85Rsgy2UxfNu6Hnmp5/giphy.gif" height="180" alt="gif4" />
 </div>
