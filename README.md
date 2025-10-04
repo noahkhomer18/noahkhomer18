@@ -1,33 +1,32 @@
-# Hi, I am Noah
+# Hi, I am Noah ✨
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMWltaTJmcjYzNDBjemw5Z2gxcGpuaHJmMm5vYncwandmeHgxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding animation" />
 
-Welcome to my GitHub; I hope you find something here that helps you.
+```js
+const aboutMe = {
+  name: "Noah Khomer",
+  location: "Dallas, TX (originally NYC)",
+  startedCodingAt: 12,
+  passion: "Building projects that connect creativity with technology",
+  education: {
+    majors: ["Computer Science", "Business Administration"],
+    minors: ["Software Engineering", "Information Systems", "Project Management"]
+  },
+  motto: "I do a lot, learn a lot, and then teach it so we all grow."
+};
+``` 
 
-I’ve been coding since I was 12. Along the way I’ve built countless projects while working across industries such as food service, automotive, grooming, marketing, and music.
+<div align="center">
+  <a href="https://linkedin.com/in/noahkhomer18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.noah-khomer.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+  </a>
+</div>
 
-Many of those projects are becoming public here; this GitHub will be a living testament to my work and it will remain as one of my firm achievements. 
-
-I love learning, and that drive led me to pursue a double major with multiple minors across Computer Science, Software Engineering, Business Administration, Information Systems, and Project Management. 
-
-I pass on what I learn through my YouTube channel to help others across subjects, and I also support recent graduates and senior professionals with resume improvements that help them stand out. 
-
-I do a lot, learn a lot, and then teach it so we all grow. 
-
-I’m open to part‑time internships where I can help your company succeed with my expertise; while I enjoy what I do now, if you have a role that challenges me more, feel free to reach out. I grew up in NYC and now live in Dallas.
-
----
-
-## 🌐 Socials
-
-<a href="https://linkedin.com/in/noahkhomer18"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
-<a href="https://www.noah-khomer.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-noah--khomer.com-111111?style=for-the-badge&logo=vercel&logoColor=white" height="40" /></a>
-
-Note: Email intentionally excluded for security. You can reach me out on Linkedin instead
-
----
-
-## 💻 Tech Stack
-
-
+<p align="center">
+  <sub>Email intentionally excluded for security. You can reach me through LinkedIn.</sub>
+</p>
 
 
 <div align="center">
@@ -74,11 +73,8 @@ Note: Email intentionally excluded for security. You can reach me out on Linkedi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="Trello" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" alt="Slack" />
 </div>
-
-
-## 📈 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noahkhomer18&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahkhomer18&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
+<p align="center">If you appreciate the work, please consider following ⭐</p>
